@@ -1,7 +1,7 @@
-# Orion Inventory Allocation Engine User Guide
+# Vanguard Logistics Allocation Engine User Guide
 **A Dispatcher's Guide to Multi-Warehouse Logistics Optimizer**
 
-Welcome to the **Orion Allocation Engine** dashboard. This guide walks you through using the application to manage stock, dispatch orders, and monitor auto-replenishment.
+Welcome to the **Vanguard Logistics Allocation Engine** dashboard. This guide walks you through using the application to manage stock, dispatch orders, and monitor auto-replenishment.
 
 ---
 

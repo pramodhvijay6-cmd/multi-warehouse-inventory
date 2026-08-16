@@ -272,7 +272,7 @@ function App() {
       <header className="app-header">
         <div className="header-title-section">
           <h1>
-            <span style={{ color: "var(--primary)" }}>Orion</span> Allocation Engine
+            <span style={{ color: "var(--primary)" }}>Vanguard</span> Logistics Engine
           </h1>
           <div className="header-subtitle">
             Geographical proximity-based multi-warehouse allocation optimizer

@@ -1,7 +1,7 @@
-# Orion Multi-Warehouse Stock Allocation & Replenishment Optimizer
+# Vanguard Logistics Multi-Warehouse Stock Allocation & Replenishment Optimizer
 **Internship Hiring Assessment Submission | Stage 1 - 4 Deliverables**
 
-Orion is a production-grade multi-warehouse stock routing and fulfillment engine. It dynamically optimizes logistics by routing order items based on customer-to-warehouse geographical proximity, stock availability, warehouse daily capacity limits, and handles auto-replenishment tracking with a custom interactive React UI dashboard.
+Vanguard Logistics is a production-grade multi-warehouse stock routing and fulfillment engine. It dynamically optimizes logistics by routing order items based on customer-to-warehouse geographical proximity, stock availability, warehouse daily capacity limits, and handles auto-replenishment tracking with a custom interactive React UI dashboard.
 
 ---
 

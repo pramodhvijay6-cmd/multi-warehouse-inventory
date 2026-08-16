@@ -10,7 +10,7 @@ const logOutputPath = path.join(PROJECT_ROOT, "ai_change_loop_log.md");
 
 const FEATURE_REQUEST = "Add a VIP shipping tier. VIP orders must bypass the warehouse daily allocation processing capacity check and always get allocated from the nearest warehouse that has stock, even if that warehouse is at max daily capacity limits.";
 
-console.log("=== Orion AI Change Loop Orchestrator ===");
+console.log("=== Vanguard Logistics AI Change Loop Orchestrator ===");
 console.log(`Feature Request: "${FEATURE_REQUEST}"\n`);
 
 // Helper to run Jest tests and return results
